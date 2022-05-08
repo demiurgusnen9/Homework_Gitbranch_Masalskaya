@@ -23,7 +23,7 @@ $ git push origin --all
 
 Total 0 (delta 0), reused 0 (delta 0), pack-reused 0
 To https://github.com/demiurgusnen9/Homework_Gitbranch_Masalskaya.git
- * [new branch]      Bug_Reports -> Bag_Reports
+ * [new branch]      Bug_Reports -> Bug_Reports
  * [new branch]      Charles -> Charles
  * [new branch]      CheckLists -> CheckLists
  * [new branch]      Jmeter -> Jmeter

@@ -1,0 +1,6 @@
+ID:ID 
+Summary:Короткое описание
+Steps to Reproduce: Шаги воспроизведения
+Expected Result:Ожидаемый результат
+Actual Result:Фактический результат
+Severity:Серьезность	
